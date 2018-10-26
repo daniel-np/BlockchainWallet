@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/Daniel/Desktop/Skole/høst2018/DAT159UtvalgteTemaerIKT/Blockchain/bitcoinj-core-0.14.7-bundled.jar"/>
+	<classpathentry kind="lib" path="/Users/Daniel/Desktop/Skole/høst2018/DAT159UtvalgteTemaerIKT/Blockchain/crypto-160/jars/bcprov-jdk15on-160.jar"/>
+	<classpathentry kind="lib" path="/Users/Daniel/Downloads/slf4j-1.7.25/slf4j-nop-1.7.25.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
